@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Parthah77
+- 👋 Hi, I’m @rahul
 - 👀 I’m interested in Frontend development
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
